@@ -1,0 +1,15 @@
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\bin\Debug\Vimimportwork.exe.config
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\bin\Debug\Vimimportwork.exe.manifest
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\bin\Debug\Vimimportwork.application
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\bin\Debug\Vimimportwork.exe
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\bin\Debug\Vimimportwork.pdb
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Monitor.csprojAssemblyReference.cache
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.Form1.resources
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.Properties.Resources.resources
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.TrustInfo.xml
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.exe.manifest
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.application
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.exe
+C:\Users\Runig\source\repos\Watcher\VinImport Monitor\Small Monitor\Vimimportwork\obj\Debug\Vimimportwork.pdb
